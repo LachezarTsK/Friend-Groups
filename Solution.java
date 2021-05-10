@@ -1,4 +1,3 @@
-package friendGroups.gitHub;
 
 public class Solution {
 
